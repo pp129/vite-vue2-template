@@ -4,9 +4,7 @@ vite模板：vue2+eslint+sass
 
 ## 如何使用
 
-首先安装
-<a href="https://github.com/Rich-Harris/degit" target="_blank">degit</a>
-
+首先安装 [degit](https://github.com/Rich-Harris/degit){:target="_blank"}
 
 ```bash
 npm install -g degit
