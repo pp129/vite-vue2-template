@@ -1,0 +1,30 @@
+{
+  "name": "vite-vue2-template",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^2.7.8",
+    "vue-template-compiler": "^2.7.8"
+  },
+  "devDependencies": {
+    "@rollup/plugin-babel": "^5.3.1",
+    "@types/node": "^18.6.5",
+    "@vitejs/plugin-legacy": "^2.0.1",
+    "eslint": "^8.23.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.5",
+    "eslint-plugin-promise": "^6.0.1",
+    "eslint-plugin-vue": "^9.4.0",
+    "sass": "^1.54.8",
+    "vite": "^3.0.9",
+    "vite-plugin-html": "^3.2.0",
+    "vite-plugin-vue2": "^2.0.2"
+  }
+}
