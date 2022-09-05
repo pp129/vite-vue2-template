@@ -1,6 +1,6 @@
 # vite-vue2-template
 
-vite模板：vue2+eslint+sass
+vite模板：vue2+vue-router+vuex+eslint+sass
 
 ## 如何使用
 

@@ -1,5 +1,12 @@
 <template>
-  <div>Vite + Vue2 + Eslint + Sass</div>
+  <div>
+    <p>Vite + Vue2 + Eslint + Sass</p>
+    <nav>
+      <router-link to="/">Home</router-link> |
+      <router-link to="/about">About</router-link>
+    </nav>
+    <router-view />
+  </div>
 </template>
 
 <script>

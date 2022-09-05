@@ -19,6 +19,7 @@ module.exports = {
   ],
   rules: {
     'vue/no-deprecated-destroyed-lifecycle': 0,
-    'import/first': 0
+    'import/first': 0,
+    "vue/multi-word-component-names":0
   }
 }
